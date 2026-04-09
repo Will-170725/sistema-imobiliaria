@@ -1,0 +1,10 @@
+# Executaveis
+sistema.exe
+sistema
+
+# Arquivos de dados gerados pelo programa
+imoveis.txt
+clientes.txt
+corretores.txt
+propostas.txt
+temp.txt
